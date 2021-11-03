@@ -6,7 +6,7 @@
 * [video #2](https://www.youtube.com/watch?v=TEuDTl8SdZo)
 * [video #3](https://www.youtube.com/watch?v=3Pp0K_rgk8U)
 * [repository](https://github.com/NikitaRudy/nodejs-lecture)
-* [sledes](https://slides.com/nikitarudy)
+* [slides](https://slides.com/nikitarudy)
 
 ### Built-in modules
 * path
