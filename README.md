@@ -22,5 +22,5 @@
 ### Stream
 * Readable (fs, net, http, stdin)
 * Writable (fs, net, http, stdout)
-* Transform (zlid, crypto)
+* Transform (zlib, crypto)
 * Duplex (net)
